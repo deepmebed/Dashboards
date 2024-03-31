@@ -1,0 +1,1 @@
+If you are facing issues running the app, make sure the python version is python=3.9.18
