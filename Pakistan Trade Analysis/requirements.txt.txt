@@ -1,0 +1,10 @@
+Here is a list of libraries along with their versions that are used in the provided code for the dashboard:
+
+streamlit==0.89.0
+pandas==1.3.3
+altair==4.1.0
+
+Just create a file named `requirements.txt`in your project directory
+paste the above content into it. 
+Then, when you run `pip install -r requirements.txt`, 
+It will install the specified versions of the libraries.
